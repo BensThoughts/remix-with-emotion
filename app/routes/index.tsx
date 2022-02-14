@@ -1,7 +1,14 @@
+import styled from '@emotion/styled';
+
+const MyStyledH1 = styled.h1`
+  font-size: 5rem;
+  color: green;
+`;
+
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
-      <h1>Welcome to Remix</h1>
+      <MyStyledH1>Welcome to Remix</MyStyledH1>
       <ul>
         <li>
           <a
