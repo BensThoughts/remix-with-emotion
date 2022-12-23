@@ -1,3 +1,8 @@
+# Example of Remix With Emotion
+
+This is an example of how to use [@emotion](https://emotion.sh/docs/introduction) styled components with Remix.
+Go to the [article](https://bensthoughts.dev/blog/remix/remix-emotion-styled) for a comprehensive tutorial.
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
